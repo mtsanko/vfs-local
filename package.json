@@ -13,8 +13,7 @@
     },
     "main": "localfs.js",
     "dependencies": {
-        "simple-mime": "~0.0.7",
-	"pty.js": "*"
+        "simple-mime": "~0.0.7"
     },
     "devDependencies": {
         "chai": "~1.2.0",
